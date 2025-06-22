@@ -2,15 +2,6 @@
 
 An interactive and responsive **Quiz Application** built using modern frontend tools like **React** and **Vite**. This app allows users to test their knowledge through multiple-choice questions with a smooth UI, score tracking, and dynamic feedback.
 
----
-
-## 🚀 Live Demo
-
-🌐 [Click here to try the live app](https://your-live-demo-link.com)
-
-> *(Replace with your actual Vercel/Netlify/GitHub Pages link)*
-
----
 
 ## 📸 Screenshots
 
