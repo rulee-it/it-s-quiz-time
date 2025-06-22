@@ -1,4 +1,4 @@
-# 🧠 Quiz App – React + Vite
+#It's time for Quizzzz – R+V
 
 An interactive and responsive **Quiz Application** built using modern frontend tools like **React** and **Vite**. This app allows users to test their knowledge through multiple-choice questions with a smooth UI, score tracking, and dynamic feedback.
 
@@ -15,7 +15,9 @@ An interactive and responsive **Quiz Application** built using modern frontend t
 ## 📸 Screenshots
 
 ### 📝 Quiz in Action
-![Quiz](./screenshots/quiz.png)
+![React App - Google Chrome 23-06-2025 00_48_47](https://github.com/user-attachments/assets/3e060437-09ea-4246-b42c-82270729d2f6)
+
+![React App - Google Chrome 23-06-2025 00_48_57](https://github.com/user-attachments/assets/8206ec68-9a75-4c29-975e-e47275a3c669)
 
 ---
 
