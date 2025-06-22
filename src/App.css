@@ -1,0 +1,118 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+  background-color: #91d720;
+  min-height: 100vh;
+}
+.main-app {
+  text-align: center;
+}
+
+/* Header container */
+.quiz-header {
+  background-color: rgb(228, 239, 189);
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 0;
+  box-shadow: 0 6px 12px rgba(118, 33, 33, 0.1);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  width: 100%;
+}
+
+/* Header text */
+.quiz-header h1 {
+  font-size: 2.5rem;
+  color: #000000;
+  margin: 0;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 8px 0;
+  font-size: 16px;
+  border: 2px solid #892b2b;
+  border-radius: 6px;
+  background-color: rgb(196, 104, 104);
+  color: #5c98e2;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #dbd82d;
+  color: rgb(169, 3, 3);
+  transform: scale(1.05);
+}
+
+button:active {
+  transform: scale(0.97);
+}
+/* General body background */
+body {
+  background: linear-gradient(to right, #f8f9fa, #e3f2fd);
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Container styling */
+.quiz-container {
+  text-align: center;
+  margin-top: 100px;
+  background-color: #c7f209;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(211, 42, 42, 0.1);
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Headings */
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+/* Option buttons */
+button {
+  padding: 10px 20px;
+  margin: 8px 0;
+  font-size: 16px;
+  border: 2px solid #0b0ff5;
+  border-radius: 6px;
+  background-color: rgb(246, 246, 246);
+  color: #0b70a7;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  display: block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button:hover {
+  background-color: #da9c50;
+  color: rgb(238, 238, 238);
+  transform: scale(1.05);
+}
+
+button:active {
+  transform: scale(0.97);
+}
+.signature {
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+  font-size: 14px;
+  color: #333;
+  font-style: italic;
+  opacity: 0.8;
+}
+
