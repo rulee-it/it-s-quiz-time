@@ -2,6 +2,10 @@
 
 An interactive and responsive **Quiz Application** built using modern frontend tools like **React** and **Vite**. This app allows users to test their knowledge through multiple-choice questions with a smooth UI, score tracking, and dynamic feedback.
 
+for live demo 
+https://it-s-quiz-time.vercel.app/
+
+
 
 ## 📸 Screenshots
 
