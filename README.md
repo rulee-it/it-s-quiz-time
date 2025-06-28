@@ -1,4 +1,4 @@
-# It's time for Quizzzz – R+V
+# It's time for Quizzzz – (React)
 
 An interactive and responsive **Quiz Application** built using modern frontend tools like **React** and **Vite**. This app allows users to test their knowledge through multiple-choice questions with a smooth UI, score tracking, and dynamic feedback.
 
